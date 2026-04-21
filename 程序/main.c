@@ -2,7 +2,8 @@
  void main ()
  {
 //	 P2=0xFE;
-//YESIKNOWWHYnalimeiygenggai1111111
+//YESIKNOWWHYnalimeiygenggai1111111bugfix1111
+//
 	 
 	 while(1)
 	 {
