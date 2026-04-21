@@ -2,9 +2,8 @@
  void main ()
  {
 //	 P2=0xFE;
+//YESIKNOWWHYnalimeiygenggai1
 	 
-
-
 	 while(1)
 	 {
 		  if(P3_1==0)
